@@ -13,6 +13,6 @@ Sử dụng một nút bấm để điều khiển đèn LED theo 3 trạng thá
 * Tích hợp nút bấm (BOOT) vào chân GPIO00, active level = LOW.
 
 ## Hướng dẫn sử dụng
-B1: Tải file dự án về
-B2: Sử dụng PlatformIO để mở Project này.
+B1: Tải file dự án về  
+B2: Tạo một dự án mới và sử dụng mã nguồn
 
